@@ -11,6 +11,9 @@ stages:
   staging:
       profile: SecondAccount
       webpackConfigFile: webpack.octopus.config.js
+  dev:
+      profile: dev
+      webpackConfigFile: webpack.octopus.config.js
 
 currentStage: ${opt:stage, self:provider.stage}
 currentVars:

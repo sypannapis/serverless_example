@@ -14,7 +14,7 @@
     "request": "2.65.0",
     "source-map-support": "^0.4.2",
     "structured-log": "0.0.18",
-    "structured-log-seq-sink": "^0.1.3",
+    "structured-log-seq-sink": "^0.1.3"
   },
   "devDependencies": {
     "babel-core": "^6.13.2",
